@@ -1,3 +1,3 @@
 # liri-node-app
 
-! [](GIF.gif)
+![](GIF.gif)
